@@ -217,4 +217,5 @@ dkms.conf
 # End of https://www.toptal.com/developers/gitignore/api/vscode
 
 src/starter
-
+container-root
+container-root/**
